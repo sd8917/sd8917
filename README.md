@@ -1,11 +1,11 @@
 
 <h1 align="center">
   
-  <img src="https://raw.githubusercontent.com/amir-mansoor/amir-mansoor/main/computercoding.gif" alt="programmer" />
+  <img src="https://raw.githubusercontent.com/amir-mansoor/amir-mansoor/main/computercoding.gif" alt="programmer" width="250" height="200" />
   <br />
-  Hi 👋, I'm Sudhanshu kumar
+  Hi 👋, I'm Sudhanshu kumar, Sr. Software Engineer @mindfiresolution pvt ltd
 </h1>
-<h3 align="center">A 3:star: competitive coder at codechief , :pushpin: Rated 821 at Codeforces and learning Data structure and Algorithm to solve the problem of society .Specilizes in creating accessible ,data-driven web assets.Keen To apply expensive development knowledge to deliver fast, efficient projects :running: .</h3>
+<h3 align="center">A 3 :star: competitive coder at codechief , :pushpin: Rated 821 at Codeforces and learning Data structure and Algorithm to solve the problem of society .Specilizes in creating accessible ,data-driven web assets.Keen To apply expensive development knowledge to deliver fast, efficient projects :running: .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sd8917&label=Profile%20views&color=0e75b6&style=flat" alt="sd8917" /> </p>
 
@@ -13,6 +13,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 📫 Recent Project working on at [nomads.solutions](nomads.solutions/)
+-  📫 Recently started learning CANVAS and its related library in 1 weeks .
 - 👨‍💻 All of my projects are available at [http://e-learnvern.me/](http://e-learnvern.me/)
 
 - 📝 I regularly write articles on [https://medium.com/@sudhanshuraj8917](https://medium.com/@sudhanshuraj8917)
