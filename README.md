@@ -1,5 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Sudhanshu kumar</h1>
+<h1 align="center">
+  
+  <img src="https://raw.githubusercontent.com/amir-mansoor/amir-mansoor/main/computercoding.gif" alt="programmer" />
+  <br />
+  Hi 👋, I'm Sudhanshu kumar
+</h1>
 <h3 align="center">A 3:star: competitive coder at codechief , :pushpin: Rated 821 at Codeforces and learning Data structure and Algorithm to solve the problem of society .Specilizes in creating accessible ,data-driven web assets.Keen To apply expensive development knowledge to deliver fast, efficient projects :running: .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sd8917&label=Profile%20views&color=0e75b6&style=flat" alt="sd8917" /> </p>
