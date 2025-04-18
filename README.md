@@ -15,7 +15,7 @@
 
 - 📫 Recent Project working on at [nomads.solutions](nomads.solutions/)
 -  📫 Recently started learning firebase and integration.
-- 👨‍💻 All of my projects are available at [http://e-learnvern.me/](http://e-learnvern.me/)
+- 👨‍💻 All of my projects are available at [here](http://sudhanshu.site//)
 
 - 📝 I regularly write articles on [https://medium.com/@sudhanshuraj8917](https://medium.com/@sudhanshuraj8917)
 
