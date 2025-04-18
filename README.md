@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 Recent Project working on at [nomads.solutions](nomads.solutions/)
--  📫 Recently started learning CANVAS and its related library in 1 weeks .
+-  📫 Recently started learning firebase and integration.
 - 👨‍💻 All of my projects are available at [http://e-learnvern.me/](http://e-learnvern.me/)
 
 - 📝 I regularly write articles on [https://medium.com/@sudhanshuraj8917](https://medium.com/@sudhanshuraj8917)
